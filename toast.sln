@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{9CE75D1E-3E49-4D93-8561-BACCCD37B569}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "toast", "toast\toast.vcxproj", "{1CBE6B73-BB9C-4A9A-9D39-BE7E7B25F0A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CBE6B73-BB9C-4A9A-9D39-BE7E7B25F0A5}.Debug|x64.ActiveCfg = Debug|x64
+		{1CBE6B73-BB9C-4A9A-9D39-BE7E7B25F0A5}.Debug|x64.Build.0 = Debug|x64
+		{1CBE6B73-BB9C-4A9A-9D39-BE7E7B25F0A5}.Release|x64.ActiveCfg = Release|x64
+		{1CBE6B73-BB9C-4A9A-9D39-BE7E7B25F0A5}.Release|x64.Build.0 = Release|x64
+		{9CE75D1E-3E49-4D93-8561-BACCCD37B569}.Debug|x64.ActiveCfg = Debug|x64
+		{9CE75D1E-3E49-4D93-8561-BACCCD37B569}.Debug|x64.Build.0 = Debug|x64
+		{9CE75D1E-3E49-4D93-8561-BACCCD37B569}.Release|x64.ActiveCfg = Release|x64
+		{9CE75D1E-3E49-4D93-8561-BACCCD37B569}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B76E10E0-E437-4A09-80EC-279CB7FC1CFA}
+	EndGlobalSection
+EndGlobal
