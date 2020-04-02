@@ -1,3 +1,6 @@
 [submodule "toast/vendor/spdlog"]
 	path = toast/vendor/spdlog
 	url = https://github.com/gabime/spdlog
+[submodule "toast/vendor"]
+	path = toast/vendor
+	url = https://github.com/luckybob34/glfw
